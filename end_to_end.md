@@ -2654,13 +2654,13 @@ violin_plot(cleaned_tando, numerical_columns, 'cleaned_tando')
 
 
     
-![png](output_33_0.png)
+![png](md_outputs/output_33_0.png)
     
 
 
 
     
-![png](output_33_1.png)
+![png](md_outputs/output_33_1.png)
     
 
 
@@ -3121,13 +3121,13 @@ violin_plot(tando_removed, numerical_columns, 'tando_removed')
 
 
     
-![png](output_43_0.png)
+![png](md_outputs/output_43_0.png)
     
 
 
 
     
-![png](output_43_1.png)
+![png](md_outputs/output_43_1.png)
     
 
 
@@ -3211,13 +3211,13 @@ violin_plot(tando_iso, numerical_columns, 'tando_iso')
 
 
     
-![png](output_49_0.png)
+![png](md_outputs/output_49_0.png)
     
 
 
 
     
-![png](output_49_1.png)
+![png](md_outputs/output_49_1.png)
     
 
 
@@ -3282,7 +3282,7 @@ plt.show()
 
 
     
-![png](output_56_0.png)
+![png](md_outputs/output_56_0.png)
     
 
 
@@ -3298,7 +3298,7 @@ plt.show()
 
 
     
-![png](output_58_0.png)
+![png](md_outputs/output_58_0.png)
     
 
 
@@ -3345,7 +3345,7 @@ for i, col in enumerate(categorical_columns):
 
 
     
-![png](output_60_1.png)
+![png](md_outputs/output_60_1.png)
     
 
 
@@ -3358,7 +3358,7 @@ for i, col in enumerate(categorical_columns):
 
 
     
-![png](output_60_3.png)
+![png](md_outputs/output_60_3.png)
     
 
 
@@ -3371,7 +3371,7 @@ for i, col in enumerate(categorical_columns):
 
 
     
-![png](output_60_5.png)
+![png](md_outputs/output_60_5.png)
     
 
 
@@ -3384,7 +3384,7 @@ for i, col in enumerate(categorical_columns):
 
 
     
-![png](output_60_7.png)
+![png](md_outputs/output_60_7.png)
     
 
 
@@ -3945,7 +3945,7 @@ corr_heatmap(tando_encoded)
 
 
     
-![png](output_72_0.png)
+![png](md_outputs/output_72_0.png)
     
 
 
@@ -4041,19 +4041,19 @@ plt.tight_layout()
 
 
     
-![png](output_82_0.png)
+![png](md_outputs/output_82_0.png)
     
 
 
 
     
-![png](output_82_1.png)
+![png](md_outputs/output_82_1.png)
     
 
 
 
     
-![png](output_82_2.png)
+![png](md_outputs/output_82_2.png)
     
 
 
@@ -5134,7 +5134,7 @@ plt.show()
 
 
     
-![png](output_125_1.png)
+![png](md_outputs/output_125_1.png)
     
 
 
@@ -7274,7 +7274,7 @@ plot_importance(lgbm_model,figsize=(10, 6))
 
 
     
-![png](output_140_1.png)
+![png](md_outputs/output_140_1.png)
     
 
 
@@ -7841,7 +7841,7 @@ history_final = clf_dnn.fit(X_train_scaled, y_train, epochs=best_epoch, batch_si
 
 
     
-![png](output_147_0.png)
+![png](md_outputs/output_147_0.png)
     
 
 
