@@ -224,7 +224,8 @@ original.head()
     </tr>
   </tbody>
 </table>
-```python
+
+```python  
 train.info()
 ```
 
