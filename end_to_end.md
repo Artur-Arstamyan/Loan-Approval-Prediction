@@ -22,26 +22,6 @@ test = pd.read_csv('test.csv')
 original = pd.read_csv('credit_risk_dataset.csv')
 train.head()  # train.sample()
 ```
-
-
-
-
-
-  <div id="df-ab74d52c-6f14-44b2-92f0-9ba38235f502" class="colab-df-container">
-    <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
